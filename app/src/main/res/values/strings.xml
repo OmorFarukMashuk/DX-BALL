@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, DxBallActivity!</string>
+    <string name="app_name">DxBall</string>
+
+    <string name="gameNameTxt">DX-BALL</string>
+    <string name="St1btn">STAGE 1</string>
+    <string name="St2btn">STAGE 2</string>
+
+
+
+</resources>

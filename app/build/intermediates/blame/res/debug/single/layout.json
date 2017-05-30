@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/Mashuk/AndroidStudioProjects/dx ball mash_/app/build/intermediates/res/merged/debug/layout/message.xml",
+        "source": "/Users/Mashuk/AndroidStudioProjects/dx ball mash_/app/src/main/res/layout/message.xml"
+    },
+    {
+        "merged": "/Users/Mashuk/AndroidStudioProjects/dx ball mash_/app/build/intermediates/res/merged/debug/layout/stage.xml",
+        "source": "/Users/Mashuk/AndroidStudioProjects/dx ball mash_/app/src/main/res/layout/stage.xml"
+    },
+    {
+        "merged": "/Users/Mashuk/AndroidStudioProjects/dx ball mash_/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/Mashuk/AndroidStudioProjects/dx ball mash_/app/src/main/res/layout/main.xml"
+    }
+]
