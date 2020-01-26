@@ -1,0 +1,2 @@
+# DX-BALL
+It is an android game with no game engine. The game canvas has been drawn by extending a view class and every object such as ball, bar and brick is drawn by the canvas object. Ball and Bar both have been implemented in different thread for resource sharing which leads to the game performance enhancement. Other features such as multiple levels, multiple lives, score counting, background music etc. are also included.
